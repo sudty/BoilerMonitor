@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\boilermonitor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|solutionrelative:boilermonitor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BoilerMonitor||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|d:\\microsoft visual studio\\2022\\code\\boilermonitor\\boilermonitor\\helper\\digitaltubehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|solutionrelative:boilermonitor\\helper\\digitaltubehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\boilermonitor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|solutionrelative:boilermonitor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\boilermonitor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|solutionrelative:boilermonitor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\boilermonitor\\helper\\dewpointhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|solutionrelative:boilermonitor\\helper\\dewpointhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\boilermonitor\\helper\\boilerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|solutionrelative:boilermonitor\\helper\\boilerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\boilermonitor\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F05E13-AEE4-422F-BAAC-DC899AE35E0B}|BoilerMonitor\\BoilerMonitor.csproj|solutionrelative:boilermonitor\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\MainForm.cs",
+              "RelativeDocumentMoniker": "BoilerMonitor\\MainForm.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "BoilerMonitor\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:20:19.777Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "BoilerMonitor\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\MainForm.Designer.cs",
+              "RelativeToolTip": "BoilerMonitor\\MainForm.Designer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswDIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:21:10.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\MainForm.cs",
+              "RelativeDocumentMoniker": "BoilerMonitor\\MainForm.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\MainForm.cs",
+              "RelativeToolTip": "BoilerMonitor\\MainForm.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAiwHoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:56:18.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\App.config",
+              "RelativeDocumentMoniker": "BoilerMonitor\\App.config",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\App.config",
+              "RelativeToolTip": "BoilerMonitor\\App.config",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-28T10:58:07.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoilerHelper.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\Helper\\BoilerHelper.cs",
+              "RelativeDocumentMoniker": "BoilerMonitor\\Helper\\BoilerHelper.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\Helper\\BoilerHelper.cs",
+              "RelativeToolTip": "BoilerMonitor\\Helper\\BoilerHelper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:38:23.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DewPointHelper.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\Helper\\DewPointHelper.cs",
+              "RelativeDocumentMoniker": "BoilerMonitor\\Helper\\DewPointHelper.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\Helper\\DewPointHelper.cs",
+              "RelativeToolTip": "BoilerMonitor\\Helper\\DewPointHelper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:15:21.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DigitalTubeHelper.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\Helper\\DigitalTubeHelper.cs",
+              "RelativeDocumentMoniker": "BoilerMonitor\\Helper\\DigitalTubeHelper.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\Helper\\DigitalTubeHelper.cs",
+              "RelativeToolTip": "BoilerMonitor\\Helper\\DigitalTubeHelper.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAFwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:38:12.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoilerMonitor",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\BoilerMonitor.csproj",
+              "RelativeDocumentMoniker": "BoilerMonitor\\BoilerMonitor.csproj",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Code\\BoilerMonitor\\BoilerMonitor\\BoilerMonitor.csproj",
+              "RelativeToolTip": "BoilerMonitor\\BoilerMonitor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-28T10:30:58.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
